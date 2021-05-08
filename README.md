@@ -11,6 +11,7 @@ Presentation @ <a href="https://www.overleaf.com/7868194542mwnnvcjthtzp"><img sr
 1. The files with code include:
     1. Basic Encoder Decoder Model with Attention
     2. Neural Machine Translation model adapted for Transliteration
+    3. Trial (DeepTrans) - DeepTrans seq2seq model for Transliteration
 2. The dataset used for training the model is the [FIRE '13 Dataset](http://cse.iitkgp.ac.in/resgrp/cnerg/qa/fire13translit/index.html), [Transliteration.txt](https://github.com/typecaster/Text-Transliteration/blob/master/transliteration.txt).
 
 **Initial references:**
